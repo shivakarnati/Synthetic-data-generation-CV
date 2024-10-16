@@ -1,0 +1,5 @@
+scikit-learn
+mediapipe
+opencv-python
+numpy
+pygame
