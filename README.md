@@ -1,8 +1,9 @@
-# Synthetic Expression Classifier
+# Synthetic Data Generation for Emotion Classification
 
 A machine learning project utilizing synthetic data generated with Stable Diffusion, trained with Scikit-Learn's Random Forest Classifier, and applied in a PyGame interface.
 
-![Project Screenshot](assets/project-screenshot.png) <!-- Replace with actual path if screenshot is available -->
+
+![alt text](images/ai3.jpg)
 
 ## Table of Contents
 
@@ -18,8 +19,6 @@ A machine learning project utilizing synthetic data generated with Stable Diffus
 - [Contributing](#contributing)
 - [License](#license)
 
-
-![alt text](images/ai3.jpg)
 
 ---
 
@@ -63,7 +62,7 @@ To get the project up and running on your local machine, follow these steps:
 
 ### Prerequisites
 
-- Python 3.7+
+- Python 3.8+
 - [Stable Diffusion Model](https://github.com/CompVis/stable-diffusion) (Ensure you have it installed)
 - PyGame
 - Scikit-Learn
@@ -73,5 +72,5 @@ To get the project up and running on your local machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/synthetic-expression-classifier.git
-   cd synthetic-expression-classifier
+   git clone https://github.com/shivakarnati/synthetic-data-generation-cv.git
+   cd synthetic-data-generation-cv
