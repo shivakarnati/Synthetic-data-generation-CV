@@ -63,7 +63,6 @@ To get the project up and running on your local machine, follow these steps:
 ### Prerequisites
 
 - Python 3.8+
-- [Stable Diffusion Model](https://github.com/CompVis/stable-diffusion) (Ensure you have it installed)
 - PyGame
 - Scikit-Learn
 - Additional libraries: `numpy`, `opencv-python`
@@ -74,3 +73,12 @@ To get the project up and running on your local machine, follow these steps:
    ```bash
    git clone https://github.com/shivakarnati/synthetic-data-generation-cv.git
    cd synthetic-data-generation-cv
+    ```
+2. **Install the libraries**
+    ```bash
+    pip install -r requirements.txt
+    ```
+3. **Run the project**
+   ```bash
+   python main.py
+    ``
