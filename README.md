@@ -81,4 +81,4 @@ To get the project up and running on your local machine, follow these steps:
 3. **Run the project**
    ```bash
    python main.py
-    ``
+   ```
